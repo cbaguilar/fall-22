@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About CS 131
 description: >-
     Course policies and information.
+permalink: index.html
 ---
 
-# About
+# About CS 131
 {:.no_toc}
 
 ## Table of contents

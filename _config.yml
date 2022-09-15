@@ -19,7 +19,7 @@ description: Course website for Fall 2022 CS 131 | Programming Languages at UCLA
 author: Matthew Wang
 baseurl: '/fall-22' # the subpath of your site, e.g. /blog
 url: 'https://ucla-cs-131.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "README.md"]
 
 # Theme settings
 theme: "just-the-docs"

@@ -1,9 +1,7 @@
 ---
-name: Kevin Lin
+name: Carey Nachenberg
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: climberkip@gmail.com
+website: http://careynachenberg.weebly.com/
+photo: carey.png
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }

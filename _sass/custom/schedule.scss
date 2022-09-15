@@ -93,10 +93,17 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: $blue-000;
     }
 
-    &.section {
+    // this is a hack, since the name is slugged
+    // better fix: render section / only take the dash prefix
+    &.section,
+    &.section-1a,
+    &.section-1b,
+    &.section-1c,
+    &.section-1d
+    {
       background-color: $purple-000;
     }
 

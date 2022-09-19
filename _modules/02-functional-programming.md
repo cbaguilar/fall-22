@@ -7,7 +7,7 @@ Sep 28
   : [Lecture Notes](#)
 
 Sep 29
-: **HW 1 Posted**{: .label .label-green }Haskell Warmup
+: **Posted**{: .label .label-green }HW 1: Haskell Warmup
   : [Homework Template](#)
 
 Sep 30
@@ -23,7 +23,7 @@ Oct 5
   : [Lecture Notes](#)
 
 Oct 6
-: **HW 1 Due**{: .label .label-red }Haskell Warmup
+: **Due**{: .label .label-red }HW 1: Haskell Warmup
   : [Submission](#)
-: **HW 2 Posted**{: .label .label-green }Advanced Haskell
+: **Posted**{: .label .label-green }HW 2: Advanced Haskell
   : [Homework Template](#)

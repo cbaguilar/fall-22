@@ -38,6 +38,9 @@ collections:
   modules:
   schedules:
   announcements:
+  # custom-added lecture note collection
+  lectures:
+    output: true
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -61,6 +64,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: lectures
+    values:
+      layout: lecture
 
 compress_html:
   clippings: all

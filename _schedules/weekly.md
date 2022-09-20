@@ -27,10 +27,6 @@ schedule:
         start: 2:00 PM
         end: 3:50 PM
         location: Northwest Campus Auditorium 101A
-      - name: OH (Ashwin)
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Boelter 3256-S
   - name: Tuesday
     events:
       - name: OH (Siddharth)
@@ -48,8 +44,8 @@ schedule:
         end: 3:50 PM
         location: Northwest Campus Auditorium 101A
       - name: OH (Ashwin)
-        start: 4:00 PM
-        end: 5:00 PM
+        start: 12:00 PM
+        end: 2:00 PM
         location: Boelter 3256-S
   - name: Thursday
     events:

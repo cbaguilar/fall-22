@@ -55,3 +55,7 @@ summary {
     }
   }
 }
+
+dt > .label {
+  min-width: 6em; // for label consistency in course calendar
+}

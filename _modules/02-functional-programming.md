@@ -2,28 +2,32 @@
 title: Functional Programming
 ---
 
-Sep 28
+W Sep 28
 : **Lecture**{: .label .label-blue }Intro to FP and Haskell
-  : [Lecture Notes](#)
+  : Lecture Notes
 
-Sep 29
-: **Posted**{: .label .label-green }HW 1: Haskell Warmup
-  : [Homework Template](#)
+R Sep 29
+: **Posted**{: .label .label-green }HW 1
+  : Homework Template
 
-Sep 30
-: **Section**{: .label .label-purple }Haskell Hoops
-  : [Discussion Resources](#)
+F Sep 30
+: **Section**{: .label .label-purple }Discussion (TBD)
+  : Discussion Resources
 
-Oct 3
+M Oct 03
 : **Lecture**{: .label .label-blue }Functions and Pattern Matching
-  : [Lecture Notes](#)
+  : Lecture Notes
 
-Oct 5
+W Oct 05
 : **Lecture**{: .label .label-blue }Functional Programming Paradigms
-  : [Lecture Notes](#)
+  : Lecture Notes
 
-Oct 6
-: **Due**{: .label .label-red }HW 1: Haskell Warmup
-  : [Submission](#)
-: **Posted**{: .label .label-green }HW 2: Advanced Haskell
-  : [Homework Template](#)
+R Oct 06
+: **Due**{: .label .label-red }HW 1
+  : Submission
+: **Posted**{: .label .label-green }HW 2
+  : Homework Template
+
+F Oct 07
+: **Section**{: .label .label-purple }Discussion (TBD)
+  : Discussion Resources

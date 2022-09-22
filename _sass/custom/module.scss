@@ -29,7 +29,8 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      // changed from 1fr 7fr
+      grid-template-columns: 1fr 6fr;
     }
 
     %module-item {
@@ -37,7 +38,8 @@
       padding: $sp-2;
 
       @include mq(sm) {
-        padding: $sp-2 $sp-4;
+        // commeting out from just-the-class because of strange breakpoint behaviour
+        // padding: $sp-2 $sp-4;
       }
     }
 
@@ -86,6 +88,7 @@
         dt {
           flex: 0 0 62.5%;
           margin: 0;
+          margin-right: 0.5em; // added for spacing
         }
 
         dd {

@@ -7,8 +7,6 @@ W Nov 09
   : Lecture Notes
 
 F Nov 11
-: **Due**{: .label .label-red }HW 5
-  : Submission
 : **Posted**{: .label .label-green }Project 3
   : Project Spec
 : **Section**{: .label .label-purple }Discussion (TBD)

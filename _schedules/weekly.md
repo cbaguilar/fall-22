@@ -62,17 +62,17 @@ schedule:
       - name: Section 1A
         start: 10:00 AM
         end: 11:50 AM
-        location: TBD
+        location: Renee and David Kaplan Hall A65
       - name: Section 1B
         start: 12:00 PM
         end: 1:50 PM
-        location: TBD
+        location: Franz Hall 2258A
       - name: Section 1C
         start: 2:00 PM
         end: 3:50 PM
-        location: TBD
+        location: Dodd Hall 170
       - name: Section 1D
         start: 4:00 PM
         end: 5:50 PM
-        location: TBD
+        location: Dodd Hall 170
 ---

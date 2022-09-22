@@ -6,6 +6,8 @@ description: A listing of all the course staff members.
 
 # Staff
 
+For office hour locations and timeslots, please see the [weekly schedule]({{site.baseurl}}/schedule/).
+
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}

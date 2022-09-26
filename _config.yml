@@ -31,6 +31,12 @@ aux_links:
   Website on GitHub:
     - 'https://github.com/UCLA-CS-131/fall-22'
 
+nav_external_links:
+  - title: Campuswire
+    url: https://campuswire.com/c/G66F8C62D/
+  - title: Gradescope
+    url: https://www.gradescope.com/courses/444425
+
 # Collections for website data
 collections:
   staffers:

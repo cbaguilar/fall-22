@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About CS 131
+title: Syllabus
 description: >-
     Course policies and information.
-permalink: index.html
 ---
 
-# About CS 131 / Syllabus
+# Syllabus
 {:.no_toc}
 
 ## Table of contents

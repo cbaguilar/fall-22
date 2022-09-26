@@ -1,0 +1,28 @@
+---
+layout: page
+title: Home
+description: CS 131 Home
+nav_order: 1
+---
+
+# UCLA CS 131 - Fall 2022
+
+Welcome to the course website for the Fall 2022 offering of CS 131 at UCLA.
+
+Some things that you can do:
+
+- [read the syllabus]({{site.baseurl}}/syllabus)
+- view the [course calendar]({{site.baseurl}}/calendar) for every lecture, discussion, homework, and exam for the quarter
+- use the [weekly schedule]({{site.baseurl}}/schedule) to find professor and TA office hours
+- ~~stalk~~ learn more about our wonderful [staff]({{site.baseurl}}/staff)
+
+Some features that are coming soon:
+
+- lecture notes, project specs, and homework - these will come online as they're published!
+- better filtering in the course calendar
+- more [open-source software on our GitHub organization](https://github.com/UCLA-CS-131), **including our autograder**!
+
+We're actively (i.e., right now) working to make this site a better experience for you as a student. If you have any suggestions, feel free to:
+
+- let us know (in class, via Campuswire, or otherwise)
+- [submit an issue on GitHub](https://github.com/UCLA-CS-131/fall-22/issues), or make a PR!

@@ -37,6 +37,10 @@ schedule:
         start: 10:00 AM
         end: 11:00 AM
         location: Boelter 3256-S
+      - name: OH (Boyan)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Eng VI 392
   - name: Wednesday
     events:
       - name: OH (Matt)
@@ -63,7 +67,7 @@ schedule:
         location: Boelter 3256-S
       - name: OH (Boyan)
         start: 3:00 PM
-        end: 5:00 PM
+        end: 4:00 PM
         location: Eng VI 392
   - name: Friday
     events:

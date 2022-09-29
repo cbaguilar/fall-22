@@ -14,7 +14,7 @@ R Oct 13
 : **Due**{: .label .label-red }HW 2
   : Submission
 : **Posted**{: .label .label-green }HW 3
-  : Homework Template
+  : Gradescope
 : **Posted**{: .label .label-green }Project 1
   : Project Spec
 

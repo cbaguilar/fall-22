@@ -10,7 +10,7 @@ R Dec 01
 : **Due**{: .label .label-red }HW 7
   : Submission
 : **Posted**{: .label .label-green }HW 8
-  : Homework Template
+  : Gradescope
 
 F Nov 02
 : **Section**{: .label .label-purple }Discussion (TBD)

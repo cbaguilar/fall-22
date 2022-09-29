@@ -22,7 +22,7 @@ W Nov 16
 
 R Nov 17
 : **Posted**{: .label .label-green }HW 6
-  : Homework Template
+  : Gradescope
 
 F Nov 18
 : **Section**{: .label .label-purple }Discussion (TBD)

@@ -104,17 +104,15 @@ gh_edit_view_mode: "tree"
 # callouts
 callouts_level: quiet # or loud
 callouts:
-  highlight:
-    color: yellow
   important:
     title: Important
-    color: blue
+    color: yellow
   new:
     title: New
     color: green
   note:
     title: Note
-    color: purple
+    color: blue
   warning:
     title: Warning
     color: red

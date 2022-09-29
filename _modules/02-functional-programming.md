@@ -4,11 +4,11 @@ title: Functional Programming
 
 W Sep 28
 : **Lecture**{: .label .label-blue }Intro to FP and Haskell
-  : Lecture Notes
+  : [Lecture Notes]({{site.baseurl}}/lectures/02), [Slides](https://docs.google.com/presentation/d/1ELP8jglDH5cUbcsDTDCOUm0m20ZHLCgT/)
 
 R Sep 29
 : **Posted**{: .label .label-green }HW 1
-  : Homework Template
+  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2265568/)
 
 F Sep 30
 : **Section**{: .label .label-purple }Discussion (TBD)
@@ -26,7 +26,7 @@ R Oct 06
 : **Due**{: .label .label-red }HW 1
   : Submission
 : **Posted**{: .label .label-green }HW 2
-  : Homework Template
+  : Gradescope
 
 F Oct 07
 : **Section**{: .label .label-purple }Discussion (TBD)

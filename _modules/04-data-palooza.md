@@ -14,7 +14,7 @@ R Oct 20
 : **Due**{: .label .label-red }HW 3
   : Submission
 : **Posted**{: .label .label-green }HW 4
-  : Homework Template
+  : Gradescope
 
 F Oct 21
 : **Section**{: .label .label-purple }Discussion (TBD)

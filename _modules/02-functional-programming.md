@@ -11,8 +11,8 @@ R Sep 29
   : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2265568/)
 
 F Sep 30
-: **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
+: **Section**{: .label .label-purple }Discussion (Haskell Review)
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 M Oct 03
 : **Lecture**{: .label .label-blue }Functions and Pattern Matching

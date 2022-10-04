@@ -12,6 +12,6 @@ R Dec 01
 : **Posted**{: .label .label-green }HW 8
   : Gradescope
 
-F Nov 02
+F Dec 02
 : **Section**{: .label .label-purple }Discussion (TBD)
   : Discussion Resources

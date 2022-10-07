@@ -16,18 +16,18 @@ F Sep 30
 
 M Oct 03
 : **Lecture**{: .label .label-blue }Functions and Pattern Matching
-  : Lecture Notes
+  : [Lecture Notes]({{site.baseurl}}/lectures/03), [Slides](https://docs.google.com/presentation/d/1ELP8jglDH5cUbcsDTDCOUm0m20ZHLCgT/)
 
 W Oct 05
 : **Lecture**{: .label .label-blue }Functional Programming Paradigms
-  : Lecture Notes
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1ELP8jglDH5cUbcsDTDCOUm0m20ZHLCgT/)
 
 R Oct 06
 : **Due**{: .label .label-red }HW 1
-  : Submission
+  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2265568/)
 : **Posted**{: .label .label-green }HW 2
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2327903/)
 
 F Oct 07
 : **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)

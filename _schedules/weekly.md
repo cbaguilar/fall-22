@@ -31,6 +31,10 @@ schedule:
         start: 2:00 PM
         end: 3:50 PM
         location: Northwest Campus Auditorium 101A
+      - name: OH (Matt) - Online
+        start: 5:00 PM
+        end: 6:00 PM
+        location: '<a href="https://mattxw.com/zoom" style="color: white">mattxw.com/zoom</a>'
   - name: Tuesday
     events:
       - name: OH (Siddharth)

@@ -29,5 +29,5 @@ R Oct 06
   : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2327903/)
 
 F Oct 07
-: **Section**{: .label .label-purple }Discussion (TBD)
+: **Section**{: .label .label-purple }Discussion (ADTs + Review)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)

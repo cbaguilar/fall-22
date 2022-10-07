@@ -35,7 +35,7 @@ Office Hours: Mon/Wed 4-5pm or by appointment
 
 | TA | Section | Discussion | Office Hours | Email |
 |:---|:--------|:-----------|:-------------|:------|
-| Matthew Wang | 1A | Fri 10 AM - 11:50 AM | Mon/Wed 11 AM - 12 PM, Boelter 3256-S | [matt@matthewwang.me](mailto:matt@matthewwang.me) |
+| Matthew Wang | 1A | Fri 10 AM - 11:50 AM | Mon/Wed 11 AM - 12 PM, Boelter 3256-S<br/> Mon 5 PM - 6 PM, [Zoom](https://mattxw.com/zoom) | [matt@matthewwang.me](mailto:matt@matthewwang.me) |
 | Ashwin Ranade | 1B | Fri 12 PM - 1:50 PM | Wed 12 PM - 2 PM, Boelter 3256-S | [ashwin.ranade@cs.ucla.edu](mailto:ashwin.ranade@cs.ucla.edu) |
 | Boyan Ding | 1C | Fri 2 PM - 3:50 PM | Tue 4-5 PM, Thu 3-4 PM, Eng VI 392 | [dboyan@cs.ucla.edu](mailto:dboyan@cs.ucla.edu) |
 | Siddarth Krishnamoorthy | 1D | Fri 4 PM - 5:50 PM | Tue/Thu 10 AM - 11 AM, Boelter 3256-S | [siddarthk@cs.ucla.edu](mailto:siddarthk@cs.ucla.edu) |

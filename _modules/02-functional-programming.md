@@ -24,7 +24,7 @@ W Oct 05
 
 R Oct 06
 : **Due**{: .label .label-red }HW 1
-  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2265568/)
+  : [Solutions](https://drive.google.com/file/d/1jhk8Fv8mh4h0eDOf779mko1d5frkI_a7/view?usp=sharing), [Gradescope](https://www.gradescope.com/courses/444425/assignments/2265568/)
 : **Posted**{: .label .label-green }HW 2
   : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2327903/)
 

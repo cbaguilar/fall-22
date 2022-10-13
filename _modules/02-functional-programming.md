@@ -20,7 +20,7 @@ M Oct 03
 
 W Oct 05
 : **Lecture**{: .label .label-blue }Functional Programming Paradigms
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1ELP8jglDH5cUbcsDTDCOUm0m20ZHLCgT/)
+  : [Lecture Notes]({{site.baseurl}}/lectures/04), [Slides](https://docs.google.com/presentation/d/1ELP8jglDH5cUbcsDTDCOUm0m20ZHLCgT/)
 
 R Oct 06
 : **Due**{: .label .label-red }HW 1

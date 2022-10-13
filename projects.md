@@ -17,8 +17,8 @@ Project 1 has been released! It is due at **11:59 PM PT on October 23rd**. Some 
 
 - get a subset of your project graded **immediately on submission**
 - submit **as many times as you want**
-- are able to run a copy of the grading server locally
 - get a subset of the test cases that we grade your project on
+- (completely optional) are able to run a copy of the grading server locally
 - put everything on GitHub!
 
 Since this is new, please let us know how effective this is, and how we can improve it. We want to see you succeed!

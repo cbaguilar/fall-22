@@ -12,6 +12,7 @@ Project 1 has been released! It is due at **11:59 PM PT on October 23rd**. Some 
 - [Project Autograder](https://github.com/UCLA-CS-131/fall-22-autograder) - **includes test cases!!**
 - [Project Starter Template](https://github.com/UCLA-CS-131/fall-22-proj-starter)
 - [Gradescope Submission](https://www.gradescope.com/courses/444425/assignments/2345373)
+- [Project 1 Tips and Tricks](https://docs.google.com/document/d/1rADu2AHJvs7YwIOsiCtgZzUTiUwIwGPAvSC5XO3khFQ/) by Ashwin
 
 *Note*: we're trying a new approach of highly interactive project grading, where you:
 

@@ -16,7 +16,7 @@ R Oct 13
 : **Posted**{: .label .label-green }HW 3
   : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2347950)
 : **Posted**{: .label .label-green }Project 1
-  : Project Spec
+  : [Project Info]({{site.baseurl}}/projects)
 
 F Oct 14
 : **Section**{: .label .label-purple }Discussion (Project Overview, More FP)

@@ -6,4 +6,4 @@ website: https://matthewwang.me
 photo: matt.jpg
 ---
 
-[Schedule an appointment](https://mattxw.com/cal){: .btn .btn-outline }
+[Schedule an appointment](https://mattxw.com/cal); **please check with Matt first!**

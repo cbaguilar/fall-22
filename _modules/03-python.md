@@ -4,11 +4,11 @@ title: Python
 
 M Oct 10
 : **Lecture**{: .label .label-blue }Python Basics
-  : [Lecture Notes]({{site.baseurl}}/lectures/05)
+  : [Lecture Notes]({{site.baseurl}}/lectures/05), [Slides](https://docs.google.com/presentation/d/19BCl4QgTMv2f78xPCrlCCL2mE1PBXz_J/)
 
 W Oct 12
 : **Lecture**{: .label .label-blue }Advanced Python
-  : [Lecture Notes]({{site.baseurl}}/lectures/06)
+  : [Lecture Notes]({{site.baseurl}}/lectures/06), [Slides](https://docs.google.com/presentation/d/19BCl4QgTMv2f78xPCrlCCL2mE1PBXz_J/)
 
 R Oct 13
 : **Due**{: .label .label-red }HW 2

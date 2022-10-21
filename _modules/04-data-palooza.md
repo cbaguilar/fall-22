@@ -12,7 +12,7 @@ W Oct 19
 
 R Oct 20
 : **Due**{: .label .label-red }HW 3
-  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2347950)
+  : [Solutions](https://drive.google.com/file/d/13fFDhIvUi_2pSa5ogKygt7DFdohiOfon/view?usp=sharing), [Gradescope](https://www.gradescope.com/courses/444425/assignments/2347950)
 : **Posted**{: .label .label-green }HW 4
   : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2368706)
 

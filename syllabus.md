@@ -168,7 +168,7 @@ Week 6: 10/31 and 11/2
 
 Week 7: 11/7 and 11/9
 
-- 11/6 Project 2 due
+- 11/8 Project 2 due
 - 11/11 Project 3 posted (v3 language implementation)
 
 Week 8: 11/14 and 11/16

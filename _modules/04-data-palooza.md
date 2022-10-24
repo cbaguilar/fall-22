@@ -4,7 +4,7 @@ title: Data Palooza
 
 M Oct 17
 : **Lecture**{: .label .label-blue }Variables and Types
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
+  : [Lecture Notes]({{site.baseurl}}/lectures/07), [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
 
 W Oct 19
 : **Lecture**{: .label .label-blue }Typing Deep Dive

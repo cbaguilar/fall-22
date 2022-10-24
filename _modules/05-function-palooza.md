@@ -8,15 +8,15 @@ W Oct 26
 
 R Oct 27
 : **Due**{: .label .label-red }HW 4
-  : Submission
+  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2368706)
 : **Posted**{: .label .label-green }HW 5
   : Gradescope
 : **Posted**{: .label .label-green }Project 2
   : Project Spec
 
 F Oct 28
-: **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
+: **Section**{: .label .label-purple }Discussion (Project 2, Midterm Review)
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 M Oct 31
 : **Lecture**{: .label .label-blue }Error Handling, Guest Interview: Bjarne Stroustrup
@@ -32,10 +32,10 @@ F Nov 04
 : **Due**{: .label .label-red }HW 5
   : Submission
 
-S Nov 06
-: **Due**{: .label .label-red }Project 2
-  : Submission
-
 M Nov 07
 : **Lecture**{: .label .label-blue }First-class Functions and Polymorphism
   : Lecture Notes
+
+T Nov 08
+: **Due**{: .label .label-red }Project 2
+  : Submission

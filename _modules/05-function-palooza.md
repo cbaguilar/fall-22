@@ -12,7 +12,7 @@ R Oct 27
 : **Posted**{: .label .label-green }HW 5
   : Gradescope
 : **Posted**{: .label .label-green }Project 2
-  : Project Spec
+  : [Project Info]({{site.baseurl}}/projects)
 
 F Oct 28
 : **Section**{: .label .label-purple }Discussion (Project 2, Midterm Review)

@@ -13,4 +13,5 @@ Homeworks will be released and turned in via [Gradescope](https://bruinlearn.ucl
 - [Homework 3](https://www.gradescope.com/courses/444425/assignments/2347950), due **Oct 20 at 11:59PM**
   - [HW3 Solutions](https://drive.google.com/file/d/13fFDhIvUi_2pSa5ogKygt7DFdohiOfon/view?usp=sharing)
 - [Homework 4](https://www.gradescope.com/courses/444425/assignments/2368706), due **Oct 27 at 11:59PM**
+  - [HW4 Solutions](https://drive.google.com/file/d/1Qkc5GaPT14aZPEtK2kTK725LGfxirZzq/view?usp=sharing)
 - [Homework 5](https://www.gradescope.com/courses/444425/assignments/2390902), due **Nov 03 at 11:59PM**

@@ -8,7 +8,7 @@ W Oct 26
 
 R Oct 27
 : **Due**{: .label .label-red }HW 4
-  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2368706)
+  : [Solutions](https://drive.google.com/file/d/1Qkc5GaPT14aZPEtK2kTK725LGfxirZzq/), [Gradescope](https://www.gradescope.com/courses/444425/assignments/2368706)
 : **Posted**{: .label .label-green }HW 5
   : Gradescope
 : **Posted**{: .label .label-green }Project 2

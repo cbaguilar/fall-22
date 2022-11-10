@@ -26,4 +26,4 @@ S Oct 23
 
 M Oct 24
 : **Lecture**{: .label .label-blue }Binding, Memory, and Mutability
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
+  : [Lecture Notes]({{site.baseurl}}/lectures/09), [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)

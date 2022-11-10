@@ -8,6 +8,8 @@ description: The weekly event schedule.
 
 Runs from Week 1 - Week 10. OH are office hours!
 
+Note: no discussions Week 7 & 9 due to university holidays (Veterans Day, Thanksgiving).
+
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}

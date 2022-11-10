@@ -9,8 +9,6 @@ W Nov 09
 F Nov 11
 : **Posted**{: .label .label-green }Project 3
   : Project Spec
-: **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
 
 M Nov 14
 : **Lecture**{: .label .label-blue }Classes

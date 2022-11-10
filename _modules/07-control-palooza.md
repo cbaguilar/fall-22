@@ -10,10 +10,6 @@ W Nov 23
 : **Posted**{: .label .label-green }HW 7
   : Gradescope
 
-F Nov 25
-: **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
-
 M Nov 28
 : **Lecture**{: .label .label-blue }Concurrency
   : Lecture Notes

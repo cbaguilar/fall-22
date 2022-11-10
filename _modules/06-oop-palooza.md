@@ -26,10 +26,10 @@ F Nov 18
 : **Section**{: .label .label-purple }Discussion (TBD)
   : Discussion Resources
 
-S Nov 20
-: **Due**{: .label .label-red }Project 3
-  : Submission
-
 M Nov 21
 : **Lecture**{: .label .label-blue }Advanced OOP and Patterns
   : Lecture Notes
+
+T Nov 22
+: **Due**{: .label .label-red }Project 3
+  : Submission

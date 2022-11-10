@@ -177,7 +177,7 @@ Week 8: 11/14 and 11/16
 
 Week 9: 11/21 and 11/23
 
-- 11/20 Project 3 due
+- 11/22 Project 3 due
 - 11/23 Homework 6 due
 - 11/23 Homework 7 posted (short circuiting, looping, iterators, concurrency, logic programming)
 

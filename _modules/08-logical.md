@@ -13,5 +13,5 @@ R Dec 01
   : Gradescope
 
 F Dec 02
-: **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
+: **Section**{: .label .label-purple }Discussion (Prolog, Final)
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)

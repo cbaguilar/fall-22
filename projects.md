@@ -4,6 +4,22 @@ title: Project Specs
 description: Project specs - build your own interpreter!
 ---
 
+## Project 3
+
+Project 3 has been released! It is due at **11:59 PM PT on November 22nd**. Some links that you'll find helpful:
+
+- [Project 3 Spec](https://docs.google.com/document/d/1YCSxxlHnuMBALfGzZNcDeY-AemcWxOlFQKHxsARk1Tg/)
+- [Project Autograder](https://github.com/UCLA-CS-131/fall-22-autograder)
+  - **includes all Project 1 and 2 test cases**
+  - **includes 20 (20%) Project 3 test cases**
+- [Project Starter Template](https://github.com/UCLA-CS-131/fall-22-proj-starter)
+  - **includes Carey's Project 2 solution**. Take a look at this!
+- [Gradescope Submission](https://www.gradescope.com/courses/444425/assignments/2432757)
+
+New things to this project:
+
+- we've tried to better equidistribute the public and private test cases across features
+
 ## Project 2
 
 Project 2 has been released! It is due at **11:59 PM PT on November 8th**. Some links that you'll find helpful:

@@ -8,7 +8,7 @@ W Nov 09
 
 F Nov 11
 : **Posted**{: .label .label-green }Project 3
-  : Project Spec
+  : [Project Info]({{site.baseurl}}/projects)
 
 M Nov 14
 : **Lecture**{: .label .label-blue }Classes
@@ -23,8 +23,8 @@ R Nov 17
   : Gradescope
 
 F Nov 18
-: **Section**{: .label .label-purple }Discussion (TBD)
-  : Discussion Resources
+: **Section**{: .label .label-purple }Discussion (OOP, Project 3)
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 M Nov 21
 : **Lecture**{: .label .label-blue }Advanced OOP and Patterns
@@ -32,4 +32,4 @@ M Nov 21
 
 T Nov 22
 : **Due**{: .label .label-red }Project 3
-  : Submission
+  : [Submission](https://www.gradescope.com/courses/444425/assignments/2432757)

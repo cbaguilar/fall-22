@@ -21,3 +21,4 @@ Homeworks will be released and turned in via [Gradescope](https://bruinlearn.ucl
 - [Homework 7](https://www.gradescope.com/courses/444425/assignments/2460124), due **Dec 1 at 11:59PM**
   - [HW7 Solutions](https://docs.google.com/document/d/1vrheoXs_O_GD6lmdVfmhVrOKIQlpzo2cXkTtHx2QqFg/edit?usp=sharing)
 - [Homework 8](https://docs.google.com/document/d/1w0cBGOci_bIywXOabngAu-MBJdoGbLUTjw3AP-4sHXo/edit?usp=sharing), due **Dec 8 at 11:59PM**
+  - [HW8 Solutions](https://docs.google.com/document/d/1hsMg05fq9fDRjinYfB9QwQSxeTSA7qVGKi2Ka6ewqWg/edit?usp=sharing)
